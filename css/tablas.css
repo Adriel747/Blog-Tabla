@@ -1,0 +1,47 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+}
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+table th{
+  
+    background-color: rgb(51, 108, 89);
+    color: azure;
+}
+.fila2 th{
+    background-color: rgb(115, 151, 101);
+    color: azure;
+}
+
+body{
+    background-color: #f2e6cf;
+}
+.titulo {
+
+    padding: 40px;
+}
+
+nav ul {
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #0799b6;
+}
+
+nav li {
+    display: inline-flex;
+}
+
+nav a {
+    padding: 20px;
+    width: 150px;
+}
+
+nav ul a:hover {
+    background-color: #f2e6cf;
+}
